@@ -1,7 +1,7 @@
 const Bot = require('slackbots');
 
 const settings = {
-    token: 'xoxb-730260704720-807376515026-QHUELihPtJ9aaY0wuJPGh0qp',
+    token: '',
     name: '16teambot'
 }
 
