@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/soob-forest/slackbot#readme",
   "dependencies": {
+    "node-fetch": "^2.6.0",
     "slackbots": "^1.2.0"
   }
 }
