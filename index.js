@@ -23,7 +23,7 @@ bot.on('message', (msg) => {
         const filename = msg.files[0].name;
         fetch(fileUrl, {
             headers: {
-                'Authorization': 'Bearer xoxb-730260704720-807376515026-KoWFWfVloIfVO0m0xrLjGu9w',
+                'Authorization': `Bearer ${settings.token}`,
             }
         }).then((res) => {
 
