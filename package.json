@@ -1,0 +1,23 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soob-forest/slackbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soob-forest/slackbot/issues"
+  },
+  "homepage": "https://github.com/soob-forest/slackbot#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "slackbots": "^1.2.0"
+  }
+}
